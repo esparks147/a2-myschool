@@ -1,0 +1,51 @@
+body {
+
+	background-color: #662134;
+}
+
+#bannerpic {
+
+	float: right;
+	margin: 0 100px 10px 10px;
+	border-style: inset;
+	border-width: 7px;
+	border-color: #DDDDDD;
+	padding: 10px;
+	box-shadow: 6px 6px 6px #0000b3;
+}
+
+.clearfloat {
+
+	clear: both;
+}
+
+#banner {
+
+	margin: 0 0 0 50px;
+	
+	
+}
+
+#aboutme {
+
+	font-size: 1.5em;
+	background-color: #DDDDDD;
+	color: #DDDDDD padding : 10px;
+	border-radius: 12px;
+}
+
+#aboutme:hover {
+	box-shadow: 0 12px 16px 0 rgba(0,0,244,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#infoaboutme {
+	color: #000000; 
+	background-color : #8c8c8c;
+	font-size: 15px;
+
+}
+
+#aboutme:hover {
+    background-color: #000000;
+    color: white;
+    
+  }
